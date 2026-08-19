@@ -86,6 +86,3 @@ const { courseInst: CI } = course; // replace the name in short form for
 
 console.log(CI); //  rohit
 
-
-///---------------------------------
-///--------------------------------
